@@ -3,6 +3,8 @@
 ## Description
 This application is a single-page application Progressive Web App (PWA). It incorporates various data persistence methods to provide backup options in case certain methods are not supported by the user's browser. Additionally, the application has an offline functionality.
 
+![Screenshot 2024-01-09 at 10 24 35 pm](https://github.com/EmmaDenton/text-editor/assets/141465015/c547ce04-a90a-4ce6-9986-0cc33eec0d17)
+
 ## User Story
 
 ```md
